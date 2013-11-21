@@ -1,2 +1,2 @@
 just init
-changed in branch B
+changed in both branches
